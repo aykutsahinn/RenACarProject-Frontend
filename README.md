@@ -24,3 +24,6 @@
 <summary>Araç Listesi</summary>
 <img src="https://github.com/user-attachments/assets/f6eeea04-cc45-49b8-a1ea-1660c9a2845d" width="65%">
 
+<summary>Kiralama Sayfası</summary>
+<img src="https://github.com/user-attachments/assets/f6eeea04-cc45-49b8-a1ea-1660c9a2845d" width="65%">
+
