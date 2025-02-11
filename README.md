@@ -6,4 +6,8 @@
 - Back-End Projemiz C# ve .Net Core 3.11 kullanılarak, Autofac desteği ile yazılmıştır.
 - Back-End Projesine Ulaşmak İçin, **[Back-End](https://github.com/aykutsahinn/RentACarProject-Backend)** tıklayınız.
 - Mail Adresim: sahinaykut88@gmail.com
- 
+
+ ## Kullanılan Teknolojiler ve Versiyonlar
+[![Angular](https://img.shields.io/badge/Angular-v11.2.3-red?style=for-the-badge&logo=angular)](https://angular.io)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0.0--beta2-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![TypeScript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
