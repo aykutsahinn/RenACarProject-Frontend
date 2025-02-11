@@ -19,5 +19,5 @@
 
 ## Proje Arayüzü 
 <summary>Anasayfa Ekranı</summary>
-<img src="https://github.com/user-attachments/assets/d1c0bd9a-a768-420a-a86e-39c082913000.jpg" width="%64">
+<img src="https://github.com/user-attachments/assets/d1c0bd9a-a768-420a-a86e-39c082913000" width="%64">
 
