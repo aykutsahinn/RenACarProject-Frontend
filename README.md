@@ -21,3 +21,6 @@
 <summary>Anasayfa Ekranı</summary>
 <img src="https://github.com/user-attachments/assets/d1c0bd9a-a768-420a-a86e-39c082913000" width="%64">
 
+<summary>Araç Listesi</summary>
+<img src="https://github.com/user-attachments/assets/f6eeea04-cc45-49b8-a1ea-1660c9a2845d" width="65%">
+
