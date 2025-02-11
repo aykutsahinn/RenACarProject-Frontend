@@ -25,5 +25,5 @@
 <img src="https://github.com/user-attachments/assets/f6eeea04-cc45-49b8-a1ea-1660c9a2845d" width="65%">
 
 <summary>Kiralama Sayfası</summary>
-<img src="https://github.com/aykutsahinn/RenACarProject-Frontend/issues/1#issuecomment-2650978138" width="65%">
+<img src="https://github.com/aykutsahinn/RenACarProject-Frontend/issues/1#issuecomment-2650978138.jpg" width="65%">
 
