@@ -16,3 +16,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/aykutsahiin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aykutsahiin/)<hr>
 
 ## Proje Arayüzü 
+
+## Proje Arayüzü 
+<summary>Anasayfa Ekranı</summary>
+<img src="https://github.com/user-attachments/assets/d1c0bd9a-a768-420a-a86e-39c082913000.jpg" width="%64">
+
